@@ -1,4 +1,7 @@
 <h1 align="center">Konichiwa !!! I am Jayy.... 👋</h1>
+<h2 align="center" style="font-family: 'Yu Gothic', 'Noto Sans JP', sans-serif;">
+  こんにちは！！！ジェイです。
+</h2>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=435&lines=AI+%26+DS+Student+%F0%9F%92%BB;Learning+Japanese+%F0%9F%87%AF%F0%9F%87%B5+%7C+Goal%3A+JLPT+N2;Fitness+Freak+%F0%9F%8F%8B%E2%99%82%EF%B8%8F+%7C+Loves+Coding;Building+Projects+on+Python+%F0%9F%90%8D+%26+AI" />
